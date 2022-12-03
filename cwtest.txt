@@ -1,3 +1,2 @@
 Hello world. it's the first line that is written here.
 it's a change for part c.
-it's another change for part c.
